@@ -1,7 +1,5 @@
 package ucamp.java.exercise1;
 
-//기 수 :
-//이 름 :
 
 //[문제] 이미 저장된 문자열 변수를 최대한 활용하여 아래와 같이 출력하도록 클래스를 완성하시오.
 //      단, 새로운 변수를 정의하지 마시오. 
@@ -19,7 +17,7 @@ public class Question7 {
 		String love = "좋아합니다.";
 		String but = "그런데";
 		
-		System.out.println(name1+"는 "+name2 + "를 "+ love + but + ", "+ name2+ "는 "+ name3);
+		System.out.println(name1+"는 "+name2 + "를 "+ love + " "+but + ", "+ name2+ "는 "+ name3 + "을" + love);
 		
 		//아래에 코드를 작성하시오.
 		
